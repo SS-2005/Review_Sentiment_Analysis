@@ -10,13 +10,13 @@ It takes a review as an input and analyze it and results out the sentiment of th
 - **User-Friendly Interface**: Simple and intuitive interface for users to input thier reviews.
 
 ## How to execute the project
--Install all required libraries
--Run train_model.py
--Run app.py
--Open the webpage in my case http://127.0.0.1:8080
--Prompt in user movie review
--Output in terms of positive and negative
+- Install all required libraries
+- Run train_model.py
+- Run app.py
+- Open the webpage in my case http://127.0.0.1:8080
+- Prompt in user movie review
+- Output in terms of positive and negative
 
 ##Vedio Demonstration
--pre-requisite:Download all the files in your system
--Video Link: https://screenrec.com/share/Y8Nuv7yPMK
+- pre-requisite:Download all the files in your system
+- Video Link: https://screenrec.com/share/Y8Nuv7yPMK
