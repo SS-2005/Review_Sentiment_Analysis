@@ -4,11 +4,12 @@
 The Review Sentimental Analysis project aims to analyze customer reviews and determine their sentiment (positive, negative)
 It takes a review as an input and analyze it and results out the sentiment of the person
 
-## Languages Used
+## Languages and Framework Used
 - HTML5
 - Internal CSS
 - Javascript
 - Python 
+- Flask
 
 ## Features
 - **Sentiment Classification**: Classifies reviews into positive, negativ.
