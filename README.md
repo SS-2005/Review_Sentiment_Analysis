@@ -24,7 +24,7 @@ It takes a review as an input and analyze it and results out the sentiment of th
 - Prompt in user movie review
 - Output in terms of positive and negative
 
-##Vedio Demonstration
+## Vedio Demonstration
 - pre-requisite:Download all the files in your system
 - Video Link: https://screenrec.com/share/Y8Nuv7yPMK
 
